@@ -1,0 +1,50 @@
+body {
+	background: #FF5733;
+	padding: 10%;
+	background: url('http://www.milenio.com/tendencias/Sviajes-caballos_salvajes-Mustang_Monument-tendencias_MILIMA20160521_0366_11.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.center {
+	text-align: center;
+	font-size: 70px;
+	color:blue;
+	font-family: 'Supermercado One', cursive;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 10%;*/
+   }  
+
+.photo {
+	margin:auto;
+	display: block;
+}
+
+#container{
+	background: grey;
+	padding: 0 5%
+}
+
+img {
+	width: 60%;
+}
+
+li {
+	font-size: 30px; 
+}
+h1 {
+	color
+}
+h2 {
+	font-size:50px;
+}
+
+.pink{
+	color:pink;
+	font-family: sans-serif;
+}
